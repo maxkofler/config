@@ -1,0 +1,12 @@
+# Git configuration for Max Kofler
+
+[user]
+	name = Max Kofler
+	email = kofler.max.dev@gmail.com
+[core]
+    pager = less
+    editor = nvim
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = true
